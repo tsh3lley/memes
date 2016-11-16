@@ -1,6 +1,6 @@
 #API structure:
 
-#Route | HTTP Verb | Description
+Route | HTTP Verb | Description
 --- | --- | ---
 /api/memes | GET | Get all the memes.
 /api/memes | POST | Create a meme.
